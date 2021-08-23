@@ -23,7 +23,7 @@ function App() {
         onChange={onChange}
       />
       <button type='submit' onClick={reset}>
-        submit
+        submit s
       </button>
     </>
   );
